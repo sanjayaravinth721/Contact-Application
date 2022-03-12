@@ -56,7 +56,7 @@ To run this app, follow the instructions here,
 
 # Step 3 : Download my zip code and extract to your particular folder.
 
-# Step 4 : Now, open the hyper terminal and change the directory to particular location which has extracted **ex:(cd "F:\Contacts")** and click enter.
+# Step 4 : Now, open the hyper terminal and change the directory to particular location which has extracted **example : (cd "F:\Contacts")** and click enter.
 
 # Step 5 : Type **"node app.js"**, it will shows **"port started at 2000"** in the terminal.
 
