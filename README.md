@@ -58,7 +58,7 @@ To run this app, follow the instructions here,
 
 # Step 4 : Now, open the hyper terminal and change the directory to particular location which has extracted **ex:(cd "F:\Contacts")** and click enter.
 
-# Step 5 : Type **node app.js**, it will shows **port started at 2000** in the terminal.
+# Step 5 : Type **"node app.js"**, it will shows **"port started at 2000"** in the terminal.
 
-# Step 6 : After that go to the chrome and enter the address **locahost:2000** and it will render it into the application page.
+# Step 6 : After that go to the chrome and enter the address **"locahost:2000"** and it will render it into the application page.
  
