@@ -21,7 +21,7 @@ To run this app, follow the instructions here,
 
 -you should see the version of node you just installed.
          
-# Step 2 : install hyper terminal https://www.hilgraeve.com/hyperterminal-trial/.
+**Step 2 : install hyper terminal https://www.hilgraeve.com/hyperterminal-trial/.**
 
 # Step 3 : Download my zip code and extract to your particular folder.
 
