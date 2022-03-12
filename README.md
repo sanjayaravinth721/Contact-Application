@@ -4,7 +4,7 @@ I have created a full stack contact application by **front-end using HTML,CSS,JS
 **Setup and install**
 To run this app, follow the instructions here,
 
-Step 1 : install node.js https://nodejs.org/en/.
+# Step 1 : install node.js https://nodejs.org/en/.
 -Installation Steps
 
 -Download the Windows installer from the Nodes.js® web site. 
@@ -21,13 +21,13 @@ Step 1 : install node.js https://nodejs.org/en/.
 
 -you should see the version of node you just installed.
          
-Step 2 : install hyper terminal https://www.hilgraeve.com/hyperterminal-trial/.
+# Step 2 : install hyper terminal https://www.hilgraeve.com/hyperterminal-trial/.
 
-Step 3 : Download my zip code and extract to your particular folder.
+# Step 3 : Download my zip code and extract to your particular folder.
 
-Step 4 : Now, open the hyper terminal and change the directory to particular location which has extracted **ex:(cd "F:\Contacts")** and click enter.
+# Step 4 : Now, open the hyper terminal and change the directory to particular location which has extracted **ex:(cd "F:\Contacts")** and click enter.
 
-Step 5 : Type **node app.js**, it will shows **port started at 2000** in the terminal.
+# Step 5 : Type **node app.js**, it will shows **port started at 2000** in the terminal.
 
-Step 6 : After that go to the chrome and enter the address **locahost:2000** and it will render it into the application page.
+# Step 6 : After that go to the chrome and enter the address **locahost:2000** and it will render it into the application page.
  
