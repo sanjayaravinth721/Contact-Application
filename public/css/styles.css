@@ -1,0 +1,39 @@
+
+body {
+  background-color: #E8ECEF;
+}
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  background-color: #000;
+}
+
+.Myform{
+  text-align: left;
+}
+
+.logDiv{
+  position: absolute;
+  right: .1%;
+}
+.card-body{
+  width: 80%;
+}
+.card{
+  width: 50%;
+}
+.sign{
+  text-align: left;
+}
+.CON{
+  text-align: center;
+  border-bottom: 20px;
+  margin-bottom: 20px;
+}

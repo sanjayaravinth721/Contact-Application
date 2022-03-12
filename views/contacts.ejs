@@ -1,0 +1,32 @@
+<%- include('partials/header') %>
+<div class="Mytable">
+
+  <table class="table table-striped">
+      <h2 class="CON">Mycontacts</h2>
+    <thead>
+      <tr>
+        <th scope="col">#</th>
+        <th scope="col">Name</th>
+        <th scope="col">Ph No</th>
+        <th scope="col">Email</th>
+      </tr>
+    </thead>
+    <tbody>
+      <% var k=1; %>
+      <% for (var i = 0; i < Mycontacts.length;   i=i+3) { %>
+      <tr>
+        <td><%= k %></td>
+        <td><%= Mycontacts[i] %></td>
+        <td><%= Mycontacts[i+1] %></td>
+        <td><%= Mycontacts[i+2] %></td>
+        <% k=k+1; %>
+      </tr>
+      <% } %>
+    </tbody>
+  </table>
+</div>
+
+
+
+
+<%- include('partials/footer') %>
