@@ -50,7 +50,7 @@ To run this app, follow the instructions here,
 
 -Now the Git Bash Terminal should launch and you can use it instead of Hyper.
 
--Now go to hyper and **click on the menu on top left corner and click on edit and click on preferences** now delete everything that currently in the text editor and copy all the text int https://gist.github.com/coco-napky/404220405435b3d0373e37ec43e54a23 and paste in the hyper preferences and click save.
+-Now go to hyper and **click on the menu which is at top left corner and click on edit and click on preferences** now delete everything that currently in the text editor and copy all the text in the https://gist.github.com/coco-napky/404220405435b3d0373e37ec43e54a23 and paste in the hyper preferences and click save.
 
 -close down hyper and restart in order to check the configuration to go through and now type **echo $SHELL** if you see **/bin/bash** then the installation is successfull.
 
